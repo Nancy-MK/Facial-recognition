@@ -12,7 +12,8 @@ FaceRec is a Python application for real-time face recognition using your webcam
 - Lightweight and simple to run on any machine with Python 3.6+
 
 ## Demo
-![Screenshot Example](https://user-images.githubusercontent.com/Nancy-MK/yourrepo/Test1.png)  
+<img src="https://github.com/Nancy-MK/Facial-recognition/blob/main/Test1.png" width="400" />
+
 
 
 ## Getting Started
